@@ -1,0 +1,47 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://wnbetbst.xyz/</id>
+  <title>wnbetbst</title>
+  <subtitle>A minimal blog for write ups, reviews and personal growth by wnbetbst.</subtitle>
+  <updated>2025-07-25T10:32:24+02:00</updated>
+  <author>
+    <name>wnbetbst</name>
+    <uri>https://wnbetbst.xyz/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://wnbetbst.xyz/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://wnbetbst.xyz/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 wnbetbst </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Why I Started This Blog</title>
+    <link href="https://wnbetbst.xyz/posts/why-i-started-this-blog.md/" rel="alternate" type="text/html" title="Why I Started This Blog" />
+    <published>2025-07-25T00:00:00+02:00</published>
+  
+    <updated>2025-07-25T00:00:00+02:00</updated>
+  
+    <id>https://wnbetbst.xyz/posts/why-i-started-this-blog.md/</id>
+    <content type="text/html" src="https://wnbetbst.xyz/posts/why-i-started-this-blog.md/" />
+    <author>
+      <name>wnbetbst</name>
+    </author>
+
+  
+    
+    <category term="personal" />
+    
+  
+
+  <summary>🧠 A Place to Learn in Public  For the longest time, I’ve been learning and exploring in silence — working through machines on HackTheBox and TryHackMe, taking notes locally, and moving on to the next thing. But over time I realized something important:     If you don’t write it down, you’ll forget. If you don’t share it, you won’t grow.   This blog is my answer to that realization.    ✍️ Why I’...</summary>
+
+  </entry>
+
+</feed>
+
+
